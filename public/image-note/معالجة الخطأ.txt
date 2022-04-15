@@ -1,0 +1,4 @@
+هنا وجدت إجابة السؤال 
+https://stackoverflow.com/questions/60600991/i-am-putting-the-correct-password-in-laravel-but-it-display-error-password-does
+هنا يظهر التوثيق الرسمي لارافيل تصحيلا للمعلومة
+https://laravel.com/docs/7.x/validation#rule-confirmed
